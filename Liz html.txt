@@ -1,0 +1,10 @@
+<html>
+<head>
+<head>
+<body>
+<h1>welcome to my website<h1>
+<p>hello! I'm learning HTML and this is my first webpage.</p>s
+https://ezamu enterprise.com>
+<p> contact me at:<a ezamueni/aterprises@gmail.com</a></p>
+</body>
+</html>
